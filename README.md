@@ -1,4 +1,5 @@
-#🚀 JavaIDE Mini: Build Your Own IDE from Scratch
+#🚀 JavaIDE Mini: 
+Build Your Own IDE from Scratch
 Ever wondered how IntelliJ IDEA or Eclipse work under the hood?
 Welcome to JavaIDE Mini - a fully functional, minimal Integrated Development Environment built entirely in Java Swing. This isn't just another code editor; it's a complete IDE implementation that demonstrates how professional development tools actually work, packaged in a clean, understandable codebase.
 
