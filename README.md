@@ -37,9 +37,7 @@
 ├── 📜 README.md # This file
 └── 📜 LICENSE # MIT License
 
-text
 
----
 
 ## 🚀 Quick Start
 
@@ -51,7 +49,7 @@ text
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/javaide-mini.git
+git clone https://github.com/Nisarga/javaide-mini.git
 cd javaide-mini
 
 # Compile the project
@@ -92,7 +90,7 @@ Watch the output in the console panel!
 Supported Features
 Syntax Highlighting: Automatic coloring for Java keywords, strings, comments
 
-Error Detection: Compilation errors highlighted in editor
+Error Detection: Compilation errors shown in terminal
 
 Project Navigation: Tree view of project structure
 
