@@ -114,12 +114,14 @@ java
 // 1. Create new Tool interface implementation
 // 2. Add to ToolsManager
 // 3. Create GUI component if needed
-#📊 Performance
+
+📊 Performance
 Metric	Value
 Startup Time	< 2 seconds
 Memory Usage	~50-100 MB
 Project Load	Instant for small projects
 Compilation	Comparable to command-line javac
+
 🎓 Learning Resources
 What This Project Teaches You
 Compiler Integration: How IDEs interface with compilers
@@ -141,7 +143,7 @@ Explore JavaCompiler.java - Learn about compiler integration
 
 Check ProjectTree.java - Understand file navigation
 
-#🤝 Contributing
+🤝 Contributing
 We love contributions! Here's how to help:
 
 Ways to Contribute
@@ -190,7 +192,7 @@ Current Focus
 Improving error reporting
 Performance optimization
 
-#❓ FAQ
+❓ FAQ
 Q: Is this a production-ready IDE?
 A: It's a minimal but functional IDE. Great for learning and small projects, but not a replacement for IntelliJ/Eclipse for large-scale development.
 
@@ -218,7 +220,8 @@ MIT License
 Copyright (c) 2024 [Nisarga Chakraborty]
 
 Permission is hereby granted...
-#🙏 Acknowledgments
+
+🙏 Acknowledgments
 Java Swing Team for the robust GUI framework
 
 Oracle for the Java Compiler API
@@ -227,12 +230,12 @@ All Contributors who helped improve this project
 
 The Open Source Community for inspiration
 
-#📞 Contact & Support
+📞 Contact & Support
 Issues: GitHub Issues
 
 Email: nisargac@op.iitg.ac.in
 
-#🌟 Support
+🌟 Support
 If this project helped you learn or build something cool:
 
 ⭐ Star this repository
