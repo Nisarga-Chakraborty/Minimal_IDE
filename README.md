@@ -18,7 +18,7 @@
 | **GUI Interface** | ✅ Complete | Clean Swing-based user interface |
 
 ### 🔧 Technical Architecture
-📁 JavaIDE-Mini/
+📁 Minimal_IDE/
 ├── 📂 src/
 │ ├── 📂 ui/ # GUI Components
 │ │ ├── MainFrame.java # Main application window
@@ -49,7 +49,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/Nisarga/javaide-mini.git
+git clone https://github.com/Nisarga-Chakraborty/Minimal-IDE.git
 cd javaide-mini
 
 # Compile the project
